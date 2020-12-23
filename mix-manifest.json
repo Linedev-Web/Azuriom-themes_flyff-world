@@ -1,0 +1,4 @@
+mix-manifest.json{
+    "/assets/js/app.js": "/assets/js/app.js",
+    "/assets/css/styles.css": "/assets/css/styles.css"
+}

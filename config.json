@@ -1,0 +1,36 @@
+{
+    "discord-id": "684097488164225073",
+    "footer_description": "Nous sommes une communaut\u00e9 en pleine croissance, tr\u00e8s amicale avec une \u00e9quipe fid\u00e8le et proche avec nos joueurs.",
+    "sliders": [
+        {
+            "url": null,
+            "title": null,
+            "description": null
+        }
+    ],
+    "footer_links": {
+        "1": {
+            "icon": "<i class=\"fab fa-discord\"></i>",
+            "name": "Discord",
+            "value": "https://azuriom.com/fr"
+        },
+        "2": {
+            "icon": "<i class=\"fab fa-facebook-f\"></i>",
+            "name": "Facebook",
+            "value": "https://azuriom.com/fr"
+        },
+        "3": {
+            "icon": "<i class=\"fab fa-twitter\"></i>",
+            "name": "Twitter",
+            "value": "https://azuriom.com/fr"
+        }
+    },
+    "articleLike": "on",
+    "articleComment": "on",
+    "cgu": null,
+    "cgu_link": null,
+    "cgv": null,
+    "cgv_link": null,
+    "download": null,
+    "download_link": null
+}

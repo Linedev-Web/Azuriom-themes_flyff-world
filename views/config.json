@@ -1,0 +1,56 @@
+{
+    "discord-id": null,
+    "footer_description": "Nous sommes une communaut\u00e9 en pleine croissance, tr\u00e8s amicale avec une \u00e9quipe fid\u00e8le et proche avec nos joueurs.",
+    "sliders": [
+        {
+            "url": "background-1.jpg",
+            "title": "Heiji Dieu",
+            "description": "Completely drive business imperatives vis-a-vis global web services."
+        },
+        {
+            "url": "background-2.jpg",
+            "title": "Kero dieu",
+            "description": "Completely drive business imperatives vis-a-vis global web services."
+        },
+        {
+            "url": "background-3.jpg",
+            "title": "Goeeku Dieu",
+            "description": "Completely drive business imperatives vis-a-vis global web services."
+        },
+        {
+            "url": "background-4.jpg",
+            "title": "Lorem Ipsum",
+            "description": "Completely drive business imperatives vis-a-vis global web services."
+        },
+        {
+            "url": "background-5.png",
+            "title": "Lorem Ipsum",
+            "description": "Completely drive business imperatives vis-a-vis global web services."
+        }
+    ],
+    "footer_links": {
+        "5": {
+            "icon": "<i class=\"fab fa-discord\"></i>",
+            "name": "Discord",
+            "value": "http://flyfftheme.test/"
+        },
+        "6": {
+            "icon": "<i class=\"fab fa-facebook-f\"></i>",
+            "name": "Facebook",
+            "value": "http://flyfftheme.test/"
+        },
+        "7": {
+            "icon": "<i class=\"fab fa-twitter\"></i>",
+            "name": "Twitter",
+            "value": "http://flyfftheme.test/"
+        }
+    },
+    "articleLike": "on",
+    "articleComment": "on",
+    "cgu": "<p>J'aime les CGU</p>",
+    "cgu_link": "cgu",
+    "cgv": "<p>J'aime les CGV</p>",
+    "cgv_link": "cgv",
+    "download": "<p>J'aime les download</p>",
+    "download_link": "download"
+}

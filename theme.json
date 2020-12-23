@@ -1,0 +1,10 @@
+{
+    "id": "flyff-world",
+    "name": "Flyff-World",
+    "description": "Theme default game flyff for Azuriom",
+    "version": "1.0.0",
+    "url": "https://azuriom.com",
+    "authors": [
+        "Linedev (Latshow)"
+    ]
+}
