@@ -1,4 +1,4 @@
-# Flyff-Theme-Azranoct
+# Flyff-Theme-World
 
 This theme is an example on how to handle some basic functions for the interface
 
